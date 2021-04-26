@@ -2,14 +2,6 @@ title: Tokyo Story
 style: https://optgeo.github.io/fgd-tokio/style.json
 chapters:
   -
-    title: 母島の沖港
-    hash: 15.77/26.641922/142.160547/0/56
-    description: >-
-      <p>母島の南西部に位置する沖港は、母島と父島を結ぶ海上交通の結節点となっています。</p>
-      <p>490トンの定期船「ははじま丸」、貨物船が利用する-4.5m岸壁２バース、
-      漁船用の船揚場、物揚場、防波堤、船客待合所、港湾緑地施設（脇浜なぎさ公園）
-      等あるそうです。</p>ソース：<a href='https://www.soumu.metro.tokyo.lg.jp/07ogasawara/island_resident/harbor.html#harbor3'>東京都小笠原支庁</a>
-  -
     title: 迎賓館赤坂離宮
     hash: 18.19/35.680584/139.728617/135.6/70
     description: >-
@@ -24,5 +16,13 @@ chapters:
       <p>これまで多くの国王、大統領、首相などをお迎えしたほか、
       主要国首脳会議などの国際会議の場としても使用されています。</p>
       ソース：<a href='https://www.geihinkan.go.jp/akasaka/'>迎賓館赤坂離宮</a>
+  -
+    title: 母島の沖港
+    hash: 15.77/26.641922/142.160547/0/56
+    description: >-
+      <p>母島の南西部に位置する沖港は、母島と父島を結ぶ海上交通の結節点となっています。</p>
+      <p>490トンの定期船「ははじま丸」、貨物船が利用する-4.5m岸壁２バース、
+      漁船用の船揚場、物揚場、防波堤、船客待合所、港湾緑地施設（脇浜なぎさ公園）
+      等あるそうです。</p>ソース：<a href='https://www.soumu.metro.tokyo.lg.jp/07ogasawara/island_resident/harbor.html#harbor3'>東京都小笠原支庁</a>
 footer: >-
   これは、YAML で storytelling する方法のデモです。
